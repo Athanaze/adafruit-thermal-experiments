@@ -1,0 +1,1 @@
+sudo ampy --port /dev/ttyUSB0 run --no-output test_print.py
